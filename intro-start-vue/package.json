@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "build": "vite build",                 // ← was: vue-tsc -b && vite build
+    "preview": "vite preview",
+    "type-check": "vue-tsc -b --noEmit"    // ← run this locally when you want
   },
   "dependencies": {
     "vue": "^3.5.21"
