@@ -1,0 +1,5 @@
+<!-- intro-start-vue/public/favicon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0ea5a1"></rect>
+  <path d="M32 47s-13-7.7-13-18.1C19 23 22.8 20 27 20c2.5 0 4.7 1.2 5 3.7C32.3 21.2 34.5 20 37 20c4.2 0 8 3 8 8.9C45 39.3 32 47 32 47z" fill="#fff"></path>
+</svg>
