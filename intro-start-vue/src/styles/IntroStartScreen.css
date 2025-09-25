@@ -132,8 +132,8 @@
   will-change:opacity, transform;
 
   background:
-    radial-gradient(60% 75% at 50% 65%, rgba(34,197,94,.22), rgba(34,197,94,0) 76%),
-    radial-gradient(80% 90% at 50% 55%, rgba(16,185,129,.14), rgba(16,185,129,0) 86%);
+    radial-gradient(60% 75% at 50% 65%, rgba(155,145,217,.22), rgba(155,145,217,0) 76%),
+    radial-gradient(80% 90% at 50% 55%, rgba(176, 168, 229, 0.14), rgba(161, 154, 206, 0) 86%);
   filter:blur(22px);
 }
 
